@@ -1,0 +1,16 @@
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.exe
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.deps.json
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.runtimeconfig.json
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.runtimeconfig.dev.json
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.dll
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\ref\GameOfLifeConsole.dll
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\bin\Debug\net5.0\GameOfLifeConsole.pdb
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.csprojAssemblyReference.cache
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.AssemblyInfoInputs.cache
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.AssemblyInfo.cs
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.csproj.CoreCompileInputs.cache
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.dll
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\ref\GameOfLifeConsole.dll
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.pdb
+C:\Users\EZRoot\Desktop\GameOfLifeConsole\obj\Debug\net5.0\GameOfLifeConsole.genruntimeconfig.cache

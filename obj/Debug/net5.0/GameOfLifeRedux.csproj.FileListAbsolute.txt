@@ -1,0 +1,16 @@
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.exe
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.deps.json
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.runtimeconfig.json
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.runtimeconfig.dev.json
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.dll
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\ref\GameOfLifeRedux.dll
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\bin\Debug\net5.0\GameOfLifeRedux.pdb
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.csprojAssemblyReference.cache
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.AssemblyInfoInputs.cache
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.AssemblyInfo.cs
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.csproj.CoreCompileInputs.cache
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.dll
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\ref\GameOfLifeRedux.dll
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.pdb
+C:\Users\EZRoot\Desktop\GameOfLifeRedux\obj\Debug\net5.0\GameOfLifeRedux.genruntimeconfig.cache
